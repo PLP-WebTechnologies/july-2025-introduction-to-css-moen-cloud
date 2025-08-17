@@ -1,0 +1,24 @@
+/* Box model demonstration */
+.box {
+  width: 320px;
+  padding: 20px;               
+  border: 4px solid black;   
+  margin: 40px;                
+  background-color: gray;  
+  
+}
+
+.box h2 {
+  margin-top: 0;
+  color: aqua;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2.5em;
+
+}
+
+.box p {
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
+  font-weight: 300;
+}
